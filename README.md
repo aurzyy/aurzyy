@@ -1,16 +1,34 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**aurzyy/aurzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama
+[aulia rizqi maulida]
 
-Here are some ideas to get you started:
+## Tentang saya
+[saya adalah siswa sma sains al-quran].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan
+- [sma sains al-quran], [Jurusan], [2023] - [2026]
+
+## Keahlian
+- [membaca]
+- [memasak]
+- [menonton]
+
+## Proyek Terkini
+- [Judul Proyek 1]: [Deskripsi singkat proyek]
+- [Judul Proyek 2]: [Deskripsi singkat proyek]
+- ...
+
+## Kontak
+- Email: [auliarizqimaulida761@gmail.com]
+- LinkedIn: [LinkedIn Profile]
+- GitHub: [GitHub Profile]
+
+## Portfolio
+[Link ke portfolio atau proyek-proyek terkait]
+
+## Sosial Media
+- Twitter: [Twitter Handle]
+- Instagram: [aurzyy_]
+
+Feel free to reach out and connect!
